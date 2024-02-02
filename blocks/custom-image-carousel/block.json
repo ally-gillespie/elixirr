@@ -1,0 +1,16 @@
+{
+    "name": "acf/custom-image-carousel",
+    "title": "Custom Image Carousel",
+    "description": "A custom image carousel block that uses ACF fields.",
+    "style": [ "file:./custom-image-carousel.css" ],
+    "category": "widgets",
+    "icon": "admin-comments",
+    "keywords": ["custom-image-carousel"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "custom-image-carousel.php"
+    },
+    "supports": {
+        "anchor": true
+    }
+}
