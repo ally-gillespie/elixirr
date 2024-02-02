@@ -8,11 +8,11 @@
 // Load values and assign defaults.
 
 $image1             = get_field( 'image_1' );
-$image1_title       = get_field( 'image1_title' );
+$image1_title       = get_field( 'image_1_title' );
 $image2             = get_field( 'image_2' );
-$image2_title       = get_field( 'image2_title' );
+$image2_title       = get_field( 'image_2_title' );
 $image3             = get_field( 'image_3' );
-$image3_title       = get_field( 'image3_title' );
+$image3_title       = get_field( 'image_3_title' );
 
 echo 'Image Carousel';
 ?>
