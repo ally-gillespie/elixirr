@@ -2,12 +2,12 @@
 
 Here is a rough example of building a custom Guttenberg block that loads an image carousel with prev / next buttons.
 
-**Built using:**
-Underscores theme
+**Built using:**<br />
+Underscores theme<br />
 ACF
 
 **Next steps would be:**
-Finesse the layout - actually make it look nice!
+Finesse the layout - actually make it look nice!<br />
 Use a ACF Repeater field instead of declaring image 1, image 2, image 3 etc
 
 **Demo Video:**
